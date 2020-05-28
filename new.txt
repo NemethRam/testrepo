@@ -1,1 +1,3 @@
-bob 
+bob
+rami 
+akárki
